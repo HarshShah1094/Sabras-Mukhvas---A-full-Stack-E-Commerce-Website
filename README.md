@@ -44,7 +44,7 @@
 Clone the project
 
 ```bash
-    git clone https://github.com/hemaxpatel/Sabras-Mukhwas.git
+    gh repo clone HarshShah1094/Sabras-Mukhvas---A-full-Stack-E-Commerce-Website
 ```
 
 Install dependencies (frontend)
